@@ -9,12 +9,12 @@ export class UsersService {
   constructor() {
     this.users = [
       {
-        id: '1',
+        userId: '1',
         username: 'philip',
         password: 'yo123',
       },
       {
-        id: '2',
+        userId: '2',
         username: 'test',
         password: 'changeme',
       },
